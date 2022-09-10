@@ -1,1 +1,1 @@
-# [goodnftlandingpage]( https://paumnc.github.io/goodnftlandingpage/)
+# [goodnftlandingpage](https://paumnc.github.io/goodnftlandingpage/)
